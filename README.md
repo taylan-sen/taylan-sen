@@ -1,4 +1,4 @@
-- Hi, I’m @taylan-sen, I am an assistant professor of comouter and information science at Niagara University.
+- Hi, I’m @taylan-sen, I am an assistant professor of computer and information science at Niagara University.
 - I’m interested in computational models of human behavior, robotics, and evolutionary programming.
 - How to reach me: tsen@niagara.edu
 
